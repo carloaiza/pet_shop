@@ -10,6 +10,6 @@ public class Prog3Controller {
     @GetMapping
     public String getHello()
     {
-        return "Hola campeones";
+        return "Hola campeones y campeonas";
     }
 }
